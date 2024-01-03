@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hidma
+- 👋 Hi, I’m @subrata
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning bootstrap framework, react library, php oop and laravel
 - 💞️ I’m looking to collaborate on a php development group.
